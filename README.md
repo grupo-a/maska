@@ -17,6 +17,9 @@
   <a href="https://beholdr.github.io/maska/"><b>Documentation & demo</b></a>
 </h3>
 
+> Starting in version 2.1.6, this package is no longer compatible with Webpack 4 due to the use of nullish coalescing and optional chaining operators.  
+> This fork has been created to change the build target to ES2016 so it can be used as a subdependency in Nuxt 2.
+
 # Maska
 
 ## Support ☕️

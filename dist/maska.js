@@ -1,4 +1,4 @@
-/*! maska v2.1.10 | (c) Alexander Shabunevich | Released under the MIT license */
+/*! maska v2.1.11 | (c) Alexander Shabunevich | Released under the MIT license */
 var j = Object.defineProperty;
 var y = Object.getOwnPropertySymbols;
 var V = Object.prototype.hasOwnProperty, C = Object.prototype.propertyIsEnumerable;
