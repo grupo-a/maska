@@ -8,6 +8,7 @@ import pkg from './package.json'
 
 export default defineConfig({
   build: {
+    target: 'es2016',
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
       name: 'Maska',
